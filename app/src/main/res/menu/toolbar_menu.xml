@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuCamera"
+        android:icon="@drawable/bestcamera"
+        android:title="Camera"
+        app:showAsAction="ifRoom|collapseActionView" />
+    <item
+        android:id="@+id/menuSearch"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+    <item android:title="New group" />
+    <item android:title="New Broadcast" />
+    <item android:title="Linked devices" />
+    <item android:title="Starred messages" />
+    <item android:title="Settings" />
+
+</menu>

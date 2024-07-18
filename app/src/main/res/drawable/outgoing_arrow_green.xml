@@ -1,0 +1,4 @@
+<vector android:height="40dp" android:viewportHeight="288.82"
+    android:viewportWidth="288.82" android:width="40dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/whatsappColor" android:pathData="M3.5,285.32c4.67,4.67 12.23,4.67 16.89,0L264.76,40.95v91.38c0,6.64 5.39,12.03 12.03,12.03c6.64,0 12.03,-5.39 12.03,-12.03V12.03c0,-3.19 -1.24,-6.27 -3.5,-8.53S279.98,0 276.79,0H156.49c-6.64,0 -12.03,5.39 -12.03,12.03s5.39,12.03 12.03,12.03h91.38L3.5,268.43C-1.17,273.1 -1.17,280.67 3.5,285.32z"/>
+</vector>
